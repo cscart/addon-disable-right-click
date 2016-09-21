@@ -2,7 +2,7 @@
 <addon scheme="2.0" edition_type="ROOT,ULT">
     <id>disable_right_click</id>
     <version>1.0</version>
-    <default_language>ru</default_language>
+    <default_language>en</default_language>
     <name>Disable right mouse click</name>
     <description>Disable right mouse click to protect images</description>
     <status>active</status>
